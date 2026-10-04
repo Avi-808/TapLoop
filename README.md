@@ -19,6 +19,14 @@ An accessible, user-controlled floating tap tool inspired by the mobile app refe
 - Uses Android's Accessibility Service gesture API to perform taps only after you press **Start**.
 - Includes permission guidance, a quick guide, and a starter target-style screen.
 
+## UI preview
+
+These concept mockups show the current screen design. They are not captures from a running Android build; device screenshots will replace them once the app can be built and launched on a device.
+
+| Home | Tap settings | Floating controls |
+|---|---|---|
+| ![TapLoop home screen mockup](docs/screenshots/home.svg) | ![TapLoop configuration screen mockup](docs/screenshots/configuration.svg) | ![TapLoop floating controls mockup](docs/screenshots/floating-controls.svg) |
+
 ## Get started
 
 1. Open this folder in Android Studio and allow Gradle to sync.
