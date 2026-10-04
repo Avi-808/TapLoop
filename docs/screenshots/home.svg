@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-labelledby="title desc">
+  <title id="title">TapLoop home screen mockup</title><desc id="desc">A mobile auto-clicker home screen with a large blue Start button, settings cards, and bottom navigation.</desc>
+  <rect width="390" height="844" rx="34" fill="#F1F4FA"/><rect x="0" y="0" width="390" height="844" rx="34" fill="#F1F4FA"/>
+  <text x="26" y="34" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#17191F">9:41</text><text x="318" y="34" font-family="Arial,sans-serif" font-size="13" fill="#17191F">●  Wi-Fi  ▰</text>
+  <text x="24" y="91" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#17191F">TapLoop</text><text x="294" y="89" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#155EEF">TAP LOOP</text>
+  <circle cx="195" cy="303" r="131" fill="#D7E4FF"/><circle cx="195" cy="303" r="118" fill="#155EEF"/><text x="195" y="315" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="700" fill="white">Start</text>
+  <text x="22" y="500" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#747987">GET STARTED</text>
+  <g font-family="Arial,sans-serif" text-anchor="middle"><rect x="20" y="518" width="108" height="116" rx="20" fill="white"/><text x="74" y="565" font-size="27" fill="#17191F">⚙</text><text x="74" y="602" font-size="12" fill="#17191F">Configuration</text>
+  <rect x="141" y="518" width="108" height="116" rx="20" fill="white"/><text x="195" y="565" font-size="27" fill="#17191F">▤</text><text x="195" y="602" font-size="12" fill="#17191F">Guide</text>
+  <rect x="262" y="518" width="108" height="116" rx="20" fill="white"/><text x="316" y="565" font-size="27" fill="#17191F">⬟</text><text x="316" y="602" font-size="12" fill="#17191F">Permissions</text></g>
+  <text x="22" y="671" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#747987">MAKE IT YOURS</text>
+  <rect x="20" y="690" width="350" height="72" rx="18" fill="white"/><text x="42" y="732" font-family="Arial,sans-serif" font-size="14" fill="#17191F">Tap settings</text><text x="195" y="732" font-family="Arial,sans-serif" font-size="14" fill="#17191F">Skins</text><text x="307" y="732" font-family="Arial,sans-serif" font-size="14" fill="#17191F">Safety</text>
+  <rect x="0" y="782" width="390" height="62" rx="0" fill="white"/><text x="64" y="817" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#155EEF">⌂  Home</text><text x="195" y="817" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#858A95">⚙  Configuration</text><text x="326" y="817" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#858A95">▤  Guide</text>
+</svg>
