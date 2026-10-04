@@ -23,9 +23,17 @@ An accessible, user-controlled floating tap tool inspired by the mobile app refe
 
 These concept mockups show the current screen design. They are not captures from a running Android build; device screenshots will replace them once the app can be built and launched on a device.
 
-| Home | Tap settings | Floating controls |
-|---|---|---|
-| ![TapLoop home screen mockup](docs/screenshots/home.svg) | ![TapLoop configuration screen mockup](docs/screenshots/configuration.svg) | ![TapLoop floating controls mockup](docs/screenshots/floating-controls.svg) |
+### Home
+
+<img src="docs/screenshots/home.svg" width="320" alt="TapLoop home screen mockup" />
+
+### Tap settings
+
+<img src="docs/screenshots/configuration.svg" width="320" alt="TapLoop configuration screen mockup" />
+
+### Floating controls
+
+<img src="docs/screenshots/floating-controls.svg" width="320" alt="TapLoop floating controls mockup" />
 
 ## Get started
 
